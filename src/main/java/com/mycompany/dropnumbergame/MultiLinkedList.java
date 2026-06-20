@@ -1,9 +1,5 @@
 package com.mycompany.dropnumbergame;
 
-/**
- *
- * @author sena
- */
 
 public class MultiLinkedList {
 
