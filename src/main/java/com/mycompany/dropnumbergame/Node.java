@@ -3,8 +3,8 @@ package com.mycompany.dropnumbergame;
 public class Node {
 
     int value;
-    Node right; // sağ sütunun başına gider
-    Node down;  // aynı sütunda aşağı iner
+    Node right;
+    Node down;  
 
     public Node(int value) {
         this.value = value;
